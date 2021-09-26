@@ -221,3 +221,35 @@ blockquote::after{
     box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
 }
 /* Review End */
+/* Contact us start */
+.contact h1::after{
+    content:'';
+    background:#7EAF39;
+    display:block;
+    height:3px;
+    width:10%;
+    margin:20px auto 5px;
+}
+.contact-img img{
+    height: 587px;
+    width: 572px;
+}
+/* Contact us end */
+/* Footer Start */
+#footer{
+    margin-top:-44px;
+}
+#footer .container-fluid{
+    background:#000;
+    color:#fff;
+}
+.col-lg-3 ul li a{
+    list-style: none;
+    text-decoration: none;
+    color:#fff;
+    margin-left:-30px;
+}
+#footer h5{
+    color:#7EAF39;
+}
+/* Footer End */
