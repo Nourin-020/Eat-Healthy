@@ -7,18 +7,24 @@ body{
     .carousel-inner {
         display: none;
     }
-    .image-fluid{
-        width:100%;
-            }
+    .image-fluid {
+        width: 89%;
+    }
     .offer-title {
         width: 80%;
+    }
+    .card {
+        width: 98%;
     }
     .sp-right {
         padding-top: 107px;
     }
+    #review .row {
+        width: 100%;
+    }
     .contact-img{
         display:none;
-        width:400px;
+        width:100px;
     }
     #contact form{
         margin-bottom:100px;
@@ -50,7 +56,7 @@ body{
     }
     .contact-img{
         display:none;
-        width:400px;
+        width:100px;
     }
     #contact form{
         margin-bottom:100px;
